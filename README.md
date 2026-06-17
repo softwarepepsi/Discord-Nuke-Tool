@@ -26,6 +26,6 @@ $ python main.py
 ```
 
 ## Contact
-- Discord [executorpepsi](https://github.com/itsmat](https://github.com/softwarepepsi))
+- Discord [executorpepsi](https://github.com/softwarepepsi)
 
 > 💡 Do you have a function to implement? Open an [issue](https://github.com/softwarepepsi/Discord-Nuke-Tool/issues/new) and I might implement it.
