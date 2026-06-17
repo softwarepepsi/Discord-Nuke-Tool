@@ -9,7 +9,8 @@ Discord tool to nuke servers through the use of a bot. Developed in Python
 - [x] - [Webhook Spam](https://github.com/softwarepepsi/Discord-Nuke-Tool)
 - [x] - [Delete All Chanels](https://github.com/softwarepepsi/Discord-Nuke-Tool) 
 ## ScreenShot
-![main.png](https://cdn.discordapp.com/attachments/1516698527202414673/1516698746963099728/image.png?ex=6a339748&is=6a3245c8&hm=c8dabb492ad92b7c0864ee64dfb0b3c6cc40919f8f7f6377ab310d750fbac8e9)
+![main.png](https://cdn.discordapp.com/attachments/1508134716342145200/1516796418315255909/image.png?ex=6a33f23e&is=6a32a0be&hm=2ba95649faf5ef2ccbd5bd647f133ce8668958cde6acb3a35d01d5069662db41)
+
 
 ## Installation guide
 
