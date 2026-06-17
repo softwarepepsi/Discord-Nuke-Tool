@@ -213,7 +213,7 @@ def print_menu():
     for line in title.splitlines():
         print(Colorate.Horizontal(Colors.blue_to_white, line.center(terminal_width)))
     
-    note = 'NOTE: FOR EDUCATIONAL PURPOSES ONLY\nDeveloped by Pepsi | Version Beta\nJoin discord.gg/anhemnova for free tools'
+    note = 'Developed by Pepsi | Version Beta\nJoin discord.gg/anhemnova for free tools'
     for line in note.splitlines():
         print(Colorate.Horizontal(Colors.blue_to_white, line.center(terminal_width)))
     
