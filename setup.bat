@@ -15,15 +15,15 @@ if errorlevel 1 (
 )
 python --version
 echo.
-echo Upgrading pip...
+echo Upgrading pip
 python -m pip install --upgrade pip -q
 echo [DONE] pip upgraded
 echo.
 echo Installing required packages
-echo Installing discord.py, aiohttp, pystyle, colorama...
+echo Installing discord.py, aiohttp, pystyle, colorama
 pip install discord.py aiohttp pystyle colorama --quiet
 if errorlevel 1 (
-    echo [WARNING] Some packages failed, retrying with no cache...
+    echo [WARNING] Some packages failed, retrying with no cache
     pip install discord.py aiohttp pystyle colorama --quiet --no-cache-dir
 )
 echo.
